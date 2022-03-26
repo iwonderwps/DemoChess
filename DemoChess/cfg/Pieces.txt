@@ -1,0 +1,29 @@
+# 共用
+# 棋子的形状是一样的
+# 棋盘格的间距是固定的
+pieceWidth = 60
+pieceHeight = 60
+interval = 65  # 每格长宽均为65
+
+# 车
+RChe_path = rsc/红车.png
+BChe_path = rsc/黑车.png
+# 马
+RMa_path = rsc/红马.png
+BMa_path = rsc/黑马.png
+# 炮
+RPao_path = rsc/红炮.png
+BPao_path = rsc/黑炮.png
+# 兵卒
+RBing_path = rsc/红兵.png
+BBing_path = rsc/黑卒.png
+# 象
+RXiang_path = rsc/红象.png
+BXiang_path = rsc/黑象.png
+# 士
+RShi_path = rsc/红士.png
+BShi_path = rsc/黑士.png
+# 将帅
+RJiang_path = rsc/红帅.png
+BJiang_path = rsc/黑将.png
+

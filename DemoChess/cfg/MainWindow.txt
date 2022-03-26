@@ -1,0 +1,7 @@
+WindowName = DemoChess
+#ClientWidth = 640.000
+# ClientHeight = 480.000
+
+ClientWidth = 1280.000
+ClientHeight = 720.000
+
